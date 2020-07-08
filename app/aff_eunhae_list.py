@@ -17,7 +17,7 @@ authors = []
 tags = []
 views = []
 
-for page in range(0, 2001, 20):
+for page in range(0, 11461, 20):
     print(f"Scraping Asianfanfics Eunhae Page {page}...")
 
     if not page:
